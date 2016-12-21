@@ -1,0 +1,12 @@
+C:\Users\hp250\Desktop\PersonData\PersonModel\bin\Debug\PersonModel.dll
+C:\Users\hp250\Desktop\PersonData\PersonModel\bin\Debug\PersonModel.pdb
+C:\Users\hp250\Desktop\PersonData\PersonModel\obj\Debug\PersonModel.dll
+C:\Users\hp250\Desktop\PersonData\PersonModel\obj\Debug\PersonModel.pdb
+C:\Users\hp250\Desktop\PersonData\PersonModel\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hp250\Desktop\PersonData\PersonModel\obj\Debug\PersonModel.csprojResolveAssemblyReference.cache
+C:\Users\hp250\Downloads\SmartSoftwareSystems\PersonData\PersonModel\bin\Debug\PersonModel.dll
+C:\Users\hp250\Downloads\SmartSoftwareSystems\PersonData\PersonModel\bin\Debug\PersonModel.pdb
+C:\Users\hp250\Downloads\SmartSoftwareSystems\PersonData\PersonModel\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hp250\Downloads\SmartSoftwareSystems\PersonData\PersonModel\obj\Debug\PersonModel.csprojResolveAssemblyReference.cache
+C:\Users\hp250\Downloads\SmartSoftwareSystems\PersonData\PersonModel\obj\Debug\PersonModel.dll
+C:\Users\hp250\Downloads\SmartSoftwareSystems\PersonData\PersonModel\obj\Debug\PersonModel.pdb
