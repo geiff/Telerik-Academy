@@ -1,0 +1,6 @@
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\MatrixProblem\bin\Debug\MatrixProblem.exe.config
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\MatrixProblem\bin\Debug\MatrixProblem.exe
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\MatrixProblem\bin\Debug\MatrixProblem.pdb
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\MatrixProblem\obj\Debug\MatrixProblem.csprojResolveAssemblyReference.cache
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\MatrixProblem\obj\Debug\MatrixProblem.exe
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\MatrixProblem\obj\Debug\MatrixProblem.pdb

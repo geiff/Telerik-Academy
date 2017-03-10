@@ -1,0 +1,6 @@
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\VersionAttribute\bin\Debug\VersionAttribute.exe.config
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\VersionAttribute\bin\Debug\VersionAttribute.exe
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\VersionAttribute\bin\Debug\VersionAttribute.pdb
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\VersionAttribute\obj\Debug\Version.csprojResolveAssemblyReference.cache
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\VersionAttribute\obj\Debug\VersionAttribute.exe
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\VersionAttribute\obj\Debug\VersionAttribute.pdb

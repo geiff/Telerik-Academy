@@ -1,0 +1,6 @@
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\Generic\bin\Debug\Generic.exe.config
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\Generic\bin\Debug\Generic.exe
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\Generic\bin\Debug\Generic.pdb
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\Generic\obj\Debug\Generic.exe
+C:\Users\hp250\Downloads\Telerik-Geiff\C#OOP\DefiningClassesPartTwoHomework\Generic\obj\Debug\Generic.pdb
